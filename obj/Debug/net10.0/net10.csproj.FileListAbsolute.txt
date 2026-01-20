@@ -1,0 +1,14 @@
+/home/eborchardt/net10/bin/Debug/net10.0/net10
+/home/eborchardt/net10/bin/Debug/net10.0/net10.deps.json
+/home/eborchardt/net10/bin/Debug/net10.0/net10.runtimeconfig.json
+/home/eborchardt/net10/bin/Debug/net10.0/net10.dll
+/home/eborchardt/net10/bin/Debug/net10.0/net10.pdb
+/home/eborchardt/net10/obj/Debug/net10.0/net10.GeneratedMSBuildEditorConfig.editorconfig
+/home/eborchardt/net10/obj/Debug/net10.0/net10.AssemblyInfoInputs.cache
+/home/eborchardt/net10/obj/Debug/net10.0/net10.AssemblyInfo.cs
+/home/eborchardt/net10/obj/Debug/net10.0/net10.csproj.CoreCompileInputs.cache
+/home/eborchardt/net10/obj/Debug/net10.0/net10.dll
+/home/eborchardt/net10/obj/Debug/net10.0/refint/net10.dll
+/home/eborchardt/net10/obj/Debug/net10.0/net10.pdb
+/home/eborchardt/net10/obj/Debug/net10.0/net10.genruntimeconfig.cache
+/home/eborchardt/net10/obj/Debug/net10.0/ref/net10.dll
